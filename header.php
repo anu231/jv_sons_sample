@@ -136,7 +136,7 @@
                             <i class="glyphicon glyphicon-briefcase"></i>
                             Sample Table
                         </a>
-                        <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">
+                        <!--<a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">
                             <i class="glyphicon glyphicon-duplicate"></i>
                             Pages
                         </a>
@@ -144,14 +144,14 @@
                             <li><a href="#">Page 1</a></li>
                             <li><a href="#">Page 2</a></li>
                             <li><a href="#">Page 3</a></li>
-                        </ul>
+                        </ul>-->
                     </li>
-                    <li>
+                    <!--<li>
                         <a href="#">
                             <i class="glyphicon glyphicon-link"></i>
                             Portfolio
                         </a>
-                    </li>
+                    </li>-->
                     <li>
                         <a href="#">
                             <i class="glyphicon glyphicon-paperclip"></i>
@@ -181,7 +181,7 @@
                                 <span>Toggle Sidebar</span>
                             </button>
                         </div>
-
+                        <!--
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right">
                                 <li><a href="#">Page</a></li>
@@ -189,7 +189,7 @@
                                 <li><a href="#">Page</a></li>
                                 <li><a href="#">Page</a></li>
                             </ul>
-                        </div>
+                        </div>-->
                     </div>
                 </nav>
 
